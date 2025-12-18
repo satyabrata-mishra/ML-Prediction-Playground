@@ -1,3 +1,4 @@
 # Large datasets
 *.csv
-Credit Card Fraud Detection/creditcard.csv
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
