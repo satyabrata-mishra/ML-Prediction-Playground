@@ -1,4 +1,10 @@
 # Large datasets
 *.csv
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore all images
+*.png
+*.jpg
+*.jpeg
